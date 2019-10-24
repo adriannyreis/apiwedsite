@@ -1,0 +1,75 @@
+{
+"wedsite_id" : 1212, 
+"wedsite_url" : "idxWedsiteUrl", 
+"wedsite_domain" : "adrianny-e-noivo",
+"siteOff" : false,
+"wed": [
+    {
+      "user_id": 20,
+      "iance1_name": "Adrianny",
+      "fiance1_img": "urlimage1",
+      "fiance1_gender": "feminino",
+      "fiance1_letter": "A", 
+      "fiance2_name": "Noivo",
+      "fiance2_img": "urlimage2",
+      "fiance2_gender": "masculino",
+      "fiance2_letter": "N", 
+      "bride_and_groom": "Adrianny & Noivo", 
+      "date": "12/02/2025",
+      "place": "Casa",
+      "place_uf": "SP",
+      "place_city": "SP",
+    }
+],
+"wedsite": 
+  [
+    {
+      "domain": {
+        "ssl": true,
+      },
+      "theme": {
+        "id": 2000,
+        "user_customs": "object", 
+        "adjustments": "object", 
+      },
+      "password": '1234', 
+      "isPasswordProtected": true,
+      "published": '10/09/2019',
+      "expired": '15/03/2025',
+      "demo": true,
+      "default_content": 'string()',
+      "created_at": '20/09/2019',
+      "plan": {
+        "id": 2,
+        "due_date": '10/03/2025',
+      },
+      "pages": {
+        "home": 'object', 
+        "all": 'array', 
+        "active_menus_qty": 'number',
+        "active_pages_qty": 'number',
+      },
+      "music": {
+        "qty": 'number',
+        "play_auto": 'boolean',
+        "all": 'array', 
+      },
+      "intro": {
+        "active": false,
+        "slider_id": 0,
+        "slider_items": 'array', 
+        "transition_fx": 'string',
+        "not_resize": 'boolean',
+      },
+
+      "adjustments": {
+        "rsvp_show_children": 'boolean',
+        "string_gifts_index_buy_button": 'string',
+        "string_gifts_precart_back_button": 'string',
+        "string_gifts_precart_prices_productprice": 'string',
+        "string_gifts_precart_prices_buy": 'string',
+        "string_rsvp_input_name_placeholder": 'string',
+      }
+    }
+  ]
+}
