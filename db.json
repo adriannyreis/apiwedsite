@@ -31,11 +31,11 @@
         "user_customs": "object", 
         "adjustments": "object", 
       },
-      "password": '1234', 
-      "isPasswordProtected": true,
-      "published": '10/09/2019',
-      "expired": '15/03/2025',
-      "demo": true,
+      "password": '12345', // (somente se jwt app:true)
+      isPasswordProtected: true,
+    published: true,
+    expired: false,
+    demo: true,
       "default_content": 'string()',
       "created_at": '20/09/2019',
       "plan": {
