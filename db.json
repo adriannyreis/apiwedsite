@@ -1,9 +1,9 @@
+{
 "wedsite_id" : 1212, 
 "wedsite_url" : "idxWedsiteUrl", 
 "wedsite_domain" : "adrianny-e-noivo",
 "siteOff" : false,
-"wed": [
-    {
+"wed": {
       "user_id": 20,
       "iance1_name": "Adrianny",
       "fiance1_img": "urlimage1",
@@ -18,11 +18,8 @@
       "place": "Casa",
       "place_uf": "SP",
       "place_city": "SP",
-    }
-],
-"wedsite": 
-  [
-    {
+    },
+"wedsite": {
       "domain": {
         "ssl": true,
       },
@@ -70,4 +67,4 @@
         "string_rsvp_input_name_placeholder": 'string',
       }
     }
-  ]
+}
