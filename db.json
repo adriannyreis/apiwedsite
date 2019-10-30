@@ -34,8 +34,8 @@
       "password": "12345",
       "isPasswordProtected": true,
       "published": true,
-     "expired": false,
-     "demo": true,
+      "expired": false,
+      "demo": true,
       "default_content": "string()",
       "created_at": "20/09/2019",
       "plan": {
