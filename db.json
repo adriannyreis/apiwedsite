@@ -31,7 +31,7 @@
         "user_customs": "object", 
         "adjustments": "object"
       },
-      "password": '12345',
+      "password": "12345",
       "isPasswordProtected": true,
       "published": true,
      "expired": false,
