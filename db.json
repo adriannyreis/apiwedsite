@@ -3,7 +3,7 @@
 "wedsite_url" : "idxWedsiteUrl", 
 "wedsite_domain" : "adrianny-e-noivo",
 "siteOff" : false,
-"wed": [
+"wed": 
       {
       "user_id": 20,
       "iance1_name": "Adrianny",
@@ -19,9 +19,8 @@
       "place": "Casa",
       "place_uf": "SP",
       "place_city": "SP"
-    }
-],
-"wedsite": [
+    },
+"wedsite": 
       {
       "domain": {
         "ssl": true
@@ -69,6 +68,5 @@
         "string_gifts_precart_prices_buy": "string",
         "string_rsvp_input_name_placeholder": "string"
       }
-    }
-  ]
+   }
 }
