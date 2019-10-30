@@ -31,11 +31,11 @@
         "user_customs": "object", 
         "adjustments": "object", 
       },
-      "password": '12345', // (somente se jwt app:true)
+      "password": '12345',
       "isPasswordProtected": true,
-    "published": true,
-    "expired": false,
-    "demo": true,
+      "published": true,
+     "expired": false,
+     "demo": true,
       "default_content": 'string()',
       "created_at": '20/09/2019',
       "plan": {
