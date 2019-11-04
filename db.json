@@ -34,7 +34,7 @@
       "isPasswordProtected": true,
       "published": true,
       "expired": false,
-      "demo": true,
+      "demo": false,
       "default_content": "string()",
       "created_at": "20/09/2019",
       "plan": {
