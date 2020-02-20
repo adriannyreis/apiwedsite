@@ -1,0 +1,32 @@
+{
+  "home": {
+    "fiance1_name": "Noiva",
+    "fiance1_gender": "noiva",
+    "fiance1_letter": "N",
+    "fiance2_name": "Noivo",
+    "fiance2_gender": "noivo",
+    "fiance2_letter": "N",
+    "bride_and_groom": "Noiva & Noivo",
+    "wed_date": "2020-02-29",
+    "married": false,
+    "countdown_days": 11
+  },
+  "osnoivos": {
+    "published": "1",
+    "default_content": "default2",
+    "created_at": "2020-02-13 12:01:26",
+    "domain": [],
+  },
+  "recados": {
+    "published": "1",
+    "default_content": "default2",
+    "created_at": "2020-02-13 12:01:26",
+    "domain": [],
+  },
+  "cerimonia": {
+    "published": "1",
+    "default_content": "default2",
+    "created_at": "2020-02-13 12:01:26",
+    "domain": [],
+  },
+}
